@@ -18,7 +18,8 @@ The goal of this study is to use machine learning techniques to prediction of th
 
 4)Building a model to predict whether breast tumor tissue is malignant or benign
 
- Support Vector Machine (SVM) has been selected as predictive model.
+
+ *Support Vector Machine (SVM) has been selected as predictive model.
 
 
 Dataset: Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
