@@ -26,3 +26,5 @@ Dataset: Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://a
 
 
 Dataset link: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+
+This project is copied of the Dr. Parmar's project which can be found in the following link: https://github.com/milaan9/93_Python_Data_Analytics_Projects/blob/main/007_Breast_Cancer_Prediction_with_ML/Breast_Cancer_Prediction.ipynb and modified by me.
