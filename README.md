@@ -10,10 +10,13 @@ The goal of this study is to use machine learning techniques to prediction of th
 
 # Objective of this study:
 
-Identifying the problem 
-Exploratory Data Analysis (EDA)
-Pre-processing the data
-Building a model to predict whether breast tumor tissue is malignant or benign
+1)Identifying the problem 
+
+2)Exploratory Data Analysis (EDA)
+
+3)Pre-processing the data
+
+4)Building a model to predict whether breast tumor tissue is malignant or benign
 
  Support Vector Machine (SVM) has been selected as predictive model.
 
