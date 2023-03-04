@@ -1,4 +1,4 @@
-# Breast_Cancer_Prediction_with_ML
+# Breast Cancer Prediction with Machine Learning
 
 Breast cancer is one of the most common cancers affecting women worldwide. According to the American Cancer Society, about 1 in 8 women in the United States will develop invasive breast cancer during their lifetime. Early detection through regular screening is crucial for reducing breast cancer mortality rates.
 
