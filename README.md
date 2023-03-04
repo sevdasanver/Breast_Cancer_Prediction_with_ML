@@ -8,7 +8,7 @@ Breast cancer occurs as a result of abnormal growth of cells in the breast tissu
 
 The goal of this study is to use machine learning techniques to prediction of the breast tumor type.
 
-#Objective of this study:
+# Objective of this study:
 
 Identifying the problem 
 Exploratory Data Analysis (EDA)
@@ -19,4 +19,6 @@ Building a model to predict whether breast tumor tissue is malignant or benign
 
 
 Dataset: Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+
 Dataset link: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
